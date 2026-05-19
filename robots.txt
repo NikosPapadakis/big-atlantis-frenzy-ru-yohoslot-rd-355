@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://big-atlantis-frenzy-ru-yohoslot-355.onrender.com/sitemap.xml
